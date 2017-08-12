@@ -1,1 +1,4 @@
-# Exploratory-Data-Analysis
+edaCoursera
+===========
+
+Coursera: Exploratory Data Analysis
